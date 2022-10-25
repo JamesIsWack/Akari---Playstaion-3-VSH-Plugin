@@ -18,5 +18,5 @@ A fully customizable VSH menu with multiple functionalities.
 - Sony PS3 4.75+ SDK w/ Visual Studio Integration
 - [Fixed std library](https://github.com/skiff/libpsutil/releases "Fixed std library")
 
-## Credits
-- [@TheRouletteBoi](https://github.com/TheRouletteBoi "TheRouLetteBoi") for his helpful repositories, help and support
+## Notes
+- I am not the original author of this VSH Plugin. This is a mirror because the original author deleted his GitHub.
