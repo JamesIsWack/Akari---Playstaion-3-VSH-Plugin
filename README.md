@@ -14,9 +14,10 @@ A fully customizable VSH menu with multiple functionalities.
 ![2022-03-27_14-42-46](https://raw.githubusercontent.com/JamesIsWack/Akari---Playstaion-3-VSH-Plugin/main/images/160466345-e4620c97-8dec-43ce-8689-09f05189fa98.png)
 
 ## Building Requirements
-- Visual Studio 2013+
-- Sony PS3 4.75+ SDK w/ Visual Studio Integration
+- Visual Studio 2013
+- Sony PS3 4.75+ SDK with Visual Studio Integration
 - [Fixed std library](https://github.com/skiff/libpsutil/releases "Fixed std library")
 
 ## Notes
 - I am not the original author of this VSH Plugin. This is a mirror because the original author deleted his GitHub.
+- Thanks to WoddenPlankGames on Discord: https://github.com/Maxwelldoug @Maxwelldoug
