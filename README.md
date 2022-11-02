@@ -21,3 +21,6 @@ A fully customizable VSH menu with multiple functionalities.
 ## Notes
 - I am not the original author of this VSH Plugin. This is a mirror because the original author deleted his GitHub.
 - Thanks to WoddenPlankGames on Discord: https://github.com/Maxwelldoug @Maxwelldoug
+
+## Update!
+- Jordy is back! We are currently working on QoL improvements, I will keep you posted.
