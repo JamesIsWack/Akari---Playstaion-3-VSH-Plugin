@@ -20,7 +20,7 @@ void Config::Load()
 
 void Config::Save()
 {
-	std::string configPath = File::GetCurrentDir() + "Akarig.ini";
+	std::string configPath = File::GetCurrentDir() + "Akari.ini";
 	SaveIniFile(configPath);
 }
 
