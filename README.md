@@ -19,7 +19,7 @@ A fully customizable VSH menu with multiple functionalities.
 - [Fixed std library](https://github.com/skiff/libpsutil/releases "Fixed std library")
 
 ## Notes
-- I am not the original author of this VSH Plugin. This is a mirror because the original author deleted his GitHub.
+- I am the second lead dev, first is jordywastakem
 - Thanks to WoddenPlankGames on Discord: https://github.com/Maxwelldoug @Maxwelldoug
 
 ## Update!
