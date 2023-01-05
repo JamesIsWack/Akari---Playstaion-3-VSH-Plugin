@@ -19,10 +19,11 @@ A fully customizable VSH menu with multiple functionalities.
 - [Fixed std library](https://github.com/skiff/libpsutil/releases "Fixed std library")
 
 ## Notes
-- I am the second lead dev, first is jordywastakem
+- I am the second lead dev, first is jordywastakem <- dude can't even c/p my username correctly
 - Thanks to WoddenPlankGames on Discord: https://github.com/Maxwelldoug @Maxwelldoug
 
 ## Update!
 - Jordy is back! We are currently working on QoL improvements, I will keep you posted.
 - Update 1: We so far have fixed `ini` saving, so it uses `ini` instead of  `bin`
 - ~I havn't seen Jordy for 4 days. I'm getting worried now because he's been suicidal in the past.~ He back lol
+- Akari sucks, don't use it
