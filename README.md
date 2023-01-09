@@ -22,8 +22,8 @@ A fully customizable VSH menu with multiple functionalities.
 - I am the second lead dev, first is jordywastakem <- dude can't even c/p my username correctly
 - Thanks to WoddenPlankGames on Discord: https://github.com/Maxwelldoug @Maxwelldoug
 
-## Update!
+## Updates
 - Jordy is back! We are currently working on QoL improvements, I will keep you posted.
 - Update 1: We so far have fixed `ini` saving, so it uses `ini` instead of  `bin`
 - ~I havn't seen Jordy for 4 days. I'm getting worried now because he's been suicidal in the past.~ He back lol
-- Akari sucks, don't use it
+- Jordy has given up, I am taking over development. He will still compile code, however.
