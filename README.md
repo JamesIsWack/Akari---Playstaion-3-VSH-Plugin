@@ -26,4 +26,4 @@ A fully customizable VSH menu with multiple functionalities.
 - Jordy is back! We are currently working on QoL improvements, I will keep you posted.
 - Update 1: We so far have fixed `ini` saving, so it uses `ini` instead of  `bin`
 - ~I havn't seen Jordy for 4 days. I'm getting worried now because he's been suicidal in the past.~ He back lol
-- Jordy has given up, I am taking over development. He will still compile code, however.
+- Jordy has given up, I am taking over development. ~He will still compile code, however.~ He blocked me on Discord.
